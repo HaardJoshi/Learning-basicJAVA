@@ -26,7 +26,7 @@
 		 yn = sc.next().charAt(0).toLowerCase();
 		 if (yn =='y') {
                      break;
-                 } else if(yn =='n) {
+                 } else if(yn =='n') {
                      return;
                  }else {
                    System.out.println("INVALID INPUT!");
