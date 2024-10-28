@@ -17,7 +17,7 @@ class Node{
     }
 }
 // Linkedlist class to manage the linked list
-public class linkedListSelf 
+public class linkedList
 {
     
     Node first; //head of the linked list
